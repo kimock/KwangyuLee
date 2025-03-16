@@ -50,8 +50,8 @@
 
 ### GAN과 GNN을 활용한 건축물 생성 프로그램 제작
 
-![Figure_3](https://github.com/user-attachments/assets/73d11141-e5e8-4cf6-93f8-eb8d8f33f336)
-![image](https://github.com/user-attachments/assets/de6d376a-1495-468a-9968-5e2c9637a684)
+![Figure_3](https://github.com/user-attachments/assets/73d11141-e5e8-4cf6-93f8-eb8d8f33f336) ![image](https://github.com/user-attachments/assets/de6d376a-1495-468a-9968-5e2c9637a684)
+
 
 건축 설계 프로젝트 [2025.03.03 ~ 진행중]
 
