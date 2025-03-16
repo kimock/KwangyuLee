@@ -47,3 +47,14 @@
 
 - Building-GNN 논문을 기반으로 구현
 - 간단한 복셀 데이터를 학습하고 마스킹 구간 예측
+
+### GAN과 GNN을 활용한 건축물 생성 프로그램 제작
+
+![Figure_3](https://github.com/user-attachments/assets/73d11141-e5e8-4cf6-93f8-eb8d8f33f336)
+![image](https://github.com/user-attachments/assets/de6d376a-1495-468a-9968-5e2c9637a684)
+건축 설계 프로젝트 [2025.03.03 ~ 진행중]
+
+- Building-GAN 논문을 기반으로 구현
+- AutoDesk 120,000개의 프로그램 데이터, 복셀 데이터 사용
+- 프로그램 데이터를 복셀로 변환하는 GNN 모델 구현
+- 프로그램 데이터를 LLM 파인튜닝으로 텍스트 기반 생성이 가능한 파이프라인
