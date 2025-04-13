@@ -55,7 +55,7 @@
 
 건축 설계 프로젝트 [2025.03.03 ~ 진행중]
 
-- Building-GAN 논문을 기반으로 구현
+- Building-GAN 논문을 기반으로 구현 (https://github.com/kimock/Building-GAN)
 - AutoDesk 120,000개의 프로그램 데이터, 복셀 데이터 사용
 - 프로그램 데이터를 복셀로 변환하는 GNN 모델 구현
 - 프로그램 데이터를 LLM 파인튜닝으로 텍스트 기반 생성이 가능한 파이프라인
