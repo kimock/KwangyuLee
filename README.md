@@ -45,6 +45,7 @@
 ### 자동 주식 분석 에이전트
 
 ![분석 레포트](https://github.com/user-attachments/assets/8c4e76dc-77cf-44a6-965c-95a2de3c1a4d)
+
 토이 프로젝트 [2025.12.20 ~ 2025.12.28]
 
 - GPT-4o를 활용한 주식 분석 에이전트
