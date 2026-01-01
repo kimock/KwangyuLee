@@ -13,7 +13,6 @@
 - AutoDesk 120,000개의 프로그램 데이터, 복셀 데이터 사용
 - 프로그램 데이터를 복셀로 변환하는 GNN 모델 구현
 - 프로그램 데이터를 LLM 파인튜닝으로 텍스트 기반 생성이 가능한 파이프라인
-- 기획 설계 단계에서 각종 설계안 생성 및 검토에 활용 가능
 
 
 ### [ArtClassficiation](https://github.com/ckyumini/ArtClassficiation)
