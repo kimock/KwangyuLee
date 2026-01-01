@@ -38,7 +38,7 @@
 - 코호트 분석법 Ords Ratio를 통해 엣지를 형성
 - Louvain Algorithm을 통해 클러스터링 수행
 
-### [He is my manger](https://github.com/kimock/He-is-my-manager)
+### [He is my manager](https://github.com/kimock/He-is-my-manager)
 
 토이 프로젝트 [2025.12.20 ~ 2025.12.28]
 
