@@ -6,7 +6,6 @@
 
 ### [Mass Designer](https://github.com/kimock/MassDesigner/tree/main)
 
-![입력페이지](https://github.com/user-attachments/assets/c89cce8a-dc45-4f8e-9268-8c7ad566346c)
 ![화면 캡처 2025-05-11 184515](https://github.com/user-attachments/assets/8ee467d9-dc70-4ef5-915a-3f4b30e6a6c4)
 
 
